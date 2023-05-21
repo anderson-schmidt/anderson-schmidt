@@ -8,9 +8,9 @@
 
 <div>
  
-  <a href="https://github.com/sorinmarkov"></a>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sorinmarkov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorinmarkov&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/anderson-schmidt"></a>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anderson-schmidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-schmidt&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <h1>Estudando:
@@ -28,7 +28,7 @@
   <a href="https://api.whatsapp.com/send?phone=5561999475582" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/Schmidt_bsb" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/sorinmarkov/sorinmarkov/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/anderson-schmidt/anderson-schmidt/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
