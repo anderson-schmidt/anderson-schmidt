@@ -1,5 +1,5 @@
 ## Olá, Me chamo Anderson F. Schmidt, Seja Bem vindo ao meu Perfil!<br><br>
-- 🌱 Cursando Sistemas da informação
+- 🌱 Cursando Ciencias da Computação
 - ⚡ _Amo desafios!_
 
 
@@ -11,7 +11,9 @@
   <a href="https://github.com/anderson-schmidt"></a>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anderson-schmidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-schmidt&layout=compact&langs_count=16&theme=dark"/>
+  
 </div>
+
 <div style="display: inline_block"><br>
   <h1>Estudando:
   <!--<img align="center" alt="Sch-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
