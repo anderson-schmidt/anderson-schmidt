@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <a href="anderson.schmidt@gmail.com" target="_blank">
+  <a href="anderson.schmidt@gmail.com" target="mail">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/61999475582" target="_blank">
