@@ -2,7 +2,7 @@
 <img height="100cm" align="right" src="https://1.bp.blogspot.com/-81XveF6qEQs/Va_AeafS9NI/AAAAAAAAIIo/wliGWa7iAIE/s1600/75.gif">
 <br>
 <br>
-- 🌱 Cursando Ciencias da Computação<br>
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas<br>
 - ⚡ Amo desafios!
 
 
