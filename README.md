@@ -3,7 +3,7 @@
 <br>
 <br>
 - 🌱 Cursando Ciencias da Computação<br>
-- ⚡ _Amo desafios!_
+- ⚡ Amo desafios!
 
 
 
