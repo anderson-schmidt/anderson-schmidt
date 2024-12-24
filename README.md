@@ -59,8 +59,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anderson-schmidt/anderson-schmidt/output/snake.svg" alt="Snake animation" />
-
-###
 
 
