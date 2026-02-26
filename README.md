@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologias e Ferramentas<br>
 - **Linguagens:** JavaScript, Python, C#<br>
 - **Frameworks:** React, .NET<br>
-- **Ferramentas:** Git, Docker, VS Code<br>
+- **Ferramentas:** Git, VS Code<br>
 
 
 
