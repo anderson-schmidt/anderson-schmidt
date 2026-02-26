@@ -2,8 +2,15 @@
 <img height="100cm" align="right" src="https://1.bp.blogspot.com/-81XveF6qEQs/Va_AeafS9NI/AAAAAAAAIIo/wliGWa7iAIE/s1600/75.gif">
 <br>
 <br>
-- 🌱 Formado em Análise e Desenvolvimento de Sistemas<br>
-- ⚡ Amo desafios!
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+- 💻 Desenvolvedor apaixonado por tecnologia<br>
+- 🌱 Atualmente aprendendo **React** e **Node.js**<br>
+- 🎯 Objetivo: contribuir para projetos open-source e compartilhar conhecimento<br>
+
+## 🛠️ Tecnologias e Ferramentas<br>
+- **Linguagens:** JavaScript, Python, C#<br>
+- **Frameworks:** React, Express, .NET<br>
+- **Ferramentas:** Git, Docker, VS Code<br>
 
 
 
@@ -11,14 +18,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson-schmidt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anderson-schmidt&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/anderson-schmidt/count.svg?"  />
+  
 </div>
 
 ###
