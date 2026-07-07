@@ -35,7 +35,7 @@ anderson@github:~$ cat objetivo.txt
 ║  💻 Classe: Dev em evolução                          ║
 ║  🐧 Sistema favorito: Linux                          ║
 ║  🚀 Missão: criar projetos e evoluir todos os dias   ║
-║  ☕ Energia: café + curiosidade + prática             ║
+║  ☕ Energia: café + curiosidade + prática            ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -104,10 +104,10 @@ anderson@github:~$ cat objetivo.txt
 ## 📫 Onde me encontrar
 
 <div align="center">
-  <a href="mailto:anderson.schmidt@gmail.com" target="_blank">
+  <a href="mailto:andersonfelipeschmidt@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://wa.me/61999475582" target="_blank">
+  <a href="https://wa.me/47988131509" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   <a href="https://www.linkedin.com/in/anderson-schmidt-66129b1b1/" target="_blank">
