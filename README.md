@@ -35,7 +35,7 @@ anderson@github:~$ cat objetivo.txt
 ║  💻 Classe: Dev em evolução                          ║
 ║  🐧 Sistema favorito: Linux                          ║
 ║  🚀 Missão: criar projetos e evoluir todos os dias   ║
-║  ☕ Energia: café + curiosidade + prática             ║
+║  ☕ Energia: café + curiosidade + prática            ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
